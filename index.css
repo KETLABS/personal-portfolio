@@ -155,6 +155,12 @@ del {
   font-size: 1.5rem;
 }
 
+@media (max-width: 320px) {
+  .flipcard {
+    width: 280px;
+  }
+}
+
 
 @media (min-width: 992px) {
   .grid {
